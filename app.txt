@@ -1,7 +1,7 @@
 Linia 1: początek
 
 === Sekcja A ===
-[TODO A]
+Sekcja A: zmiana w feature/A (commit 1)
 
 === Sekcja B ===
 [TODO B]
