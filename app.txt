@@ -1,0 +1,10 @@
+Linia 1: początek
+
+=== Sekcja A ===
+[TODO A]
+
+=== Sekcja B ===
+[TODO B]
+
+=== Sekcja C ===
+[TODO C]
