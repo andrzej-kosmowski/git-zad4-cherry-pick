@@ -7,4 +7,4 @@ Sekcja A: zmiana w feature/A (commit 1)
 Sekcja B: ważna zmiana w feature/A (commit 2)
 
 === Sekcja C ===
-[TODO C]
+Sekcja C: dodatek w feature/A (commit 3)
